@@ -3,3 +3,9 @@ git status
 git add testing.py
 git rm --cached testing.py
 git restore testing.py
+git remote add origin [url from remote git ripo] 
+git remote -v # two url for push and pull will re displayed
+# after generating PAT from github 
+git remote ser-url origin https://[PTA]@github.com/Asmita-bit/github-for-devopw.git
+#remote and local are connected and now making push and pull requiests are possible
+git push origin master
