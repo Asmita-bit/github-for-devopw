@@ -9,3 +9,4 @@ git remote -v # two url for push and pull will re displayed
 git remote ser-url origin https://[PTA]@github.com/Asmita-bit/github-for-devopw.git
 #remote and local are connected and now making push and pull requiests are possible
 git push origin master
+#committing from github
