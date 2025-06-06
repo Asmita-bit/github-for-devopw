@@ -1,1 +1,12 @@
-print(" git rm --cached testing.py -> This command removes the file testing.py from the Git staging area, but keeps the file in your local working directory.")
+def my_function():
+    a = 5
+    b = 6
+    c = 8
+    return a
+
+my_function()
+
+test()
+
+
+
